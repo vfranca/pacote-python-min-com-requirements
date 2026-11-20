@@ -1,0 +1,4 @@
+-r requirements.txt
+
+build>=1.2,<2.0
+twine>=6.0,<7.0

@@ -1,2 +1,2 @@
-build>=1.2,<2.0
-twine>=6.0,<7.0
+# Dependências necessárias para executar o pacote.
+# Adicione uma dependência por linha, quando necessário.
